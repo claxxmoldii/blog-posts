@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-1-10
-title: reated repo for this!
+date: 2018-1-10 7:15
+title: created repo for this! 
 ---
 yey!
 

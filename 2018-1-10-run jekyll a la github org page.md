@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-1-10
+date: 2018-1-10 6:30
 title: run claxx-dev-jekyll like github org page
 ---
 just accidentally removed about 3-4 posts because of file moving...
